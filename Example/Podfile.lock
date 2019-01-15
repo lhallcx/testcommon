@@ -1,0 +1,16 @@
+PODS:
+  - testcommon (0.1.0)
+
+DEPENDENCIES:
+  - testcommon (from `../`)
+
+EXTERNAL SOURCES:
+  testcommon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  testcommon: 0d1ec33f4aab7f83401f846e541196325fd8704c
+
+PODFILE CHECKSUM: fa6843ff12b0fae8d76ee8e075e3cbd1474cd8cc
+
+COCOAPODS: 1.5.3
