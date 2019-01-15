@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'testcommon'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A common lib for the multi-lib test.'
 
 # This description is used to generate tags and improve search results.
